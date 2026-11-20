@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkatesh-mohanram
 - 👀 I’m interested in developing apps, gardening
-- 🌱 I’m currently learning for CKA exam
+- 🌱 I’m currently learning for Transformer architecture
 - 💞️ I’m looking to collaborate on open-source
 - 📫 How to reach me [venkatesh.mohanram@gmail.com](venkatesh.mohanram@gmail.com), [https://www.linkedin.com/in/venkateshmohanram/](https://www.linkedin.com/in/venkateshmohanram/)
 
